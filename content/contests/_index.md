@@ -5,7 +5,7 @@ title = "Visualize This contests"
 
 &nbsp;
 
-Since 2016, Compute Canada has been organizing its annual Canada-wide Visualize This! competition. In 2020-2021 we are
+Since 2016, Compute Canada has been organizing its annual Canada-wide *Visualize This!* competition. In 2020-2021 we are
 partnering with IEEE to host an international SciVis Contest.
 
 - [2020-2021](https://scivis2021.netlify.app/): Earth's Mantle Convection

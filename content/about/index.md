@@ -3,6 +3,17 @@ date = "2021-04-01"
 title = "About"
 +++
 
+<br>
+
+Using Compute Canada's resources and technical expert help, you can easily convert the results of your numerical
+simulations or your experimental data into engaging images or movies to share with colleagues, to put online, or into a
+publication. Our technical staff have extensive experience in scientific visualization and visual data analysis,
+primarily using open-source tools such as ParaView, VisIt, VTK, Blender, VMD, and various Python libraries to work with
+a wide variety of data types. Large multi-dimensional datasets can be visualized directly on Compute Canada clusters
+without having to move them to your desktop. We can help you with all stages of visualization, from preparing data in
+the right format to interactive analysis. You can get in touch with us
+<a href="mailto:vis-support@computecanada.ca"><span class="s1">via email</span></a>.
+
 ## Compute Canada Visualization National Team
 
 - Alex Razoumov, WestGrid (Lead)
