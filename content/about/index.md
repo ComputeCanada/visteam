@@ -11,8 +11,7 @@ publication. Our technical staff have extensive experience in scientific visual
 primarily using open-source tools such as ParaView, VisIt, VTK, Blender, VMD, and various Python libraries to work with
 a wide variety of data types. Large multi-dimensional datasets can be visualized directly on Compute Canada clusters
 without having to move them to your desktop. We can help you with all stages of visualization, from preparing data in
-the right format to interactive analysis. You can get in touch with us
-<a href="mailto:vis-support@computecanada.ca"><span class="s1">via email</span></a>.
+the right format to interactive analysis.
 
 ## Compute Canada Visualization National Team
 
@@ -32,9 +31,6 @@ You can get in touch with us [via email](mailto:vis-support@computecanada.ca).
 
 
 
-
-
-<!-- A minimal, responsive and light theme for Hugo inspired by Linux console.  -->
 
 <!-- ![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true) -->
 
