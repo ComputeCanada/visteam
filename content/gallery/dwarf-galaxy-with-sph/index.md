@@ -1,6 +1,6 @@
 +++
 image = "first.png"
-date = "2015-Apr-27"
+date = "2015-04-27"
 title = "Dwarf galaxy with SPH"
 type = "gallery"
 +++
