@@ -20,8 +20,6 @@ the right format to interactive analysis.
 - Dmitri Rozmanov, University of Calgary
 - Farhad Baratchi, ACENET
 - Jarno van der Kolk, University of Ottawa
-- Julie Faure-Lacroix, Université Laval
-- Marcelo Ponce, University of Toronto
 - Pier-Luc St-Onge, McGill University
 - Tyson Whitehead, Western University
 - Weiguang Guan, McMaster University
