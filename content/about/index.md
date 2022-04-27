@@ -18,14 +18,13 @@ the right format to interactive analysis.
 - Alex Razoumov, WestGrid (Lead)
 - Chris Want, University of Alberta
 - Dmitri Rozmanov, University of Calgary
-- Farhad Baratchi, ACENET
 - Jarno van der Kolk, University of Ottawa
 - Pier-Luc St-Onge, McGill University
 - Tyson Whitehead, Western University
 - Weiguang Guan, McMaster University
 - Yohai Meiron, University of Toronto
 
-You can get in touch with us [via email](mailto:vis-support@computecanada.ca).
+You can get in touch with us via email at: *vis **dash** support **at** computecanada **dot** ca*.
 
 
 

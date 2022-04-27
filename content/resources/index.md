@@ -8,7 +8,11 @@ title = "Visualization resources"
 - [WestGrid's visualization materials](https://westgrid.github.io/trainingMaterials/tools/visualization) containing the
   slides, sample datasets and scripts for ParaView, VisIt, "3D visualization for the humanities" full-day workshops, as
   well as materials and recordings from ~20 visualization webinars
-- [Compute Canada's visualization documentation](https://docs.computecanada.ca/wiki/Visualization)
+- [Compute Canada's visualization documentation](https://docs.computecanada.ca/wiki/Visualization) (now managed by the
+  Digital Research Alliance of Canada)
+
+
+
 
 
 
