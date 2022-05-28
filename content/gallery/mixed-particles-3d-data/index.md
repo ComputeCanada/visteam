@@ -17,5 +17,4 @@ ParaView.
 {{< vimeo 135006107 >}}
 &nbsp;
 
-This visualization was developed by [Alex Razoumov](mailto:alex.razoumov@westgrid.ca) (WestGrid / Compute Canada) and
-Alena Antipova.
+This visualization was developed by [Alex Razoumov](mailto:alexeir@sfu.ca) (SFU) and Alena Antipova.

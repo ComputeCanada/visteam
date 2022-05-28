@@ -3,9 +3,9 @@ date = "2021-04-01"
 title = "Visualization resources"
 +++
 
-## Compute Canada Visualization National Team
+## The Alliance's Visualization National Team
 
-- [WestGrid's visualization materials](https://westgrid.github.io/trainingMaterials/tools/visualization) containing the
+- [Western Canada visualization materials](https://westgrid.github.io/trainingMaterials/tools/visualization) containing
   slides, sample datasets and scripts for ParaView, VisIt, "3D visualization for the humanities" full-day workshops, as
   well as materials and recordings from ~20 visualization webinars
 - [Compute Canada's visualization documentation](https://docs.computecanada.ca/wiki/Visualization) (now managed by the

@@ -253,4 +253,4 @@ truncated by the boundary.
 
 ## Contact
 
-This visualization was developed by [Alex Razoumov](mailto:alex.razoumov@westgrid.ca) (WestGrid / Compute Canada).
+This visualization was developed by [Alex Razoumov](mailto:alexeir@sfu.ca) (SFU).
