@@ -1,7 +1,7 @@
 +++
 image = "carSphereTeapot.png"
 date = "2020-09-25"
-title = ""
+title = "Photorealistic rendering"
 type = "gallery"
 +++
 

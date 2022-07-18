@@ -24,10 +24,7 @@ to interactive analysis.
 - Weiguang Guan, McMaster University
 - Yohai Meiron, University of Toronto
 
-You can get in touch with us via email at: *vis **dash** support **at** computecanada **dot** ca*.
-
-
-
+You can get in touch with us via email at: *support **at** tech **dot** alliancecan **dot** ca*.
 
 [^1]: Compute Canada (CC) ceased its operations on March 31, 2022. On April 1, 2022, the Digital Research Alliance of
 Canada (the Alliance) assumed the coordination and funding activities for Canada's national advanced research computing
