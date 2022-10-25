@@ -16,6 +16,7 @@ to interactive analysis.
 ## Visualization National Team
 
 - Alex Razoumov, Simon Fraser University (Lead)
+- Angus Creech, Memorial University
 - Chris Want, University of Alberta
 - Dmitri Rozmanov, University of Calgary
 - Jarno van der Kolk, University of Ottawa
