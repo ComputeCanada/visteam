@@ -43,4 +43,3 @@ the three variables.
 
 {{< yt 3fpc2fFaLP4 72 >}}
 &nbsp;
-

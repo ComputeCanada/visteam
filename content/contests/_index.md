@@ -5,11 +5,12 @@ title = "Visualize This contests"
 
 &nbsp;
 
-Since 2016, Compute Canada has been organizing its annual Canada-wide *Visualize This!* competition. In
-2020-2021 we partnered with IEEE to host an international SciVis Contest.
+Since 2016, Compute Canada has been organizing its annual Canada-wide *Visualize This!* competition. 
 
-![2021 IEEE SciVis Contest](/ieee2021.png)
+{{< figure src="/ieee2021.png" title="In 2020-2021 we partnered with IEEE to host an international SciVis Contest." >}}
 
+<!-- - {{<a "https://visualizethis.netlify.app" "2023:">}} Halloween storm over Eastern Canada and the Normalized -->
+<!--   difference vegetation index -->
 - {{<a "https://scivis2021.netlify.app" "2020-2021:">}} Earth's Mantle Convection
 - {{<a "https://scivis2021.netlify.app/2019" "2019:">}} Incompressible transitional air flow over a wind turbine
   section <ins>or</ins> bring your own data
