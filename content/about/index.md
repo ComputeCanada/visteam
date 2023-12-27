@@ -16,7 +16,6 @@ to interactive analysis.
 ## Visualization National Team
 
 - Alex Razoumov, Simon Fraser University (Lead)
-- Angus Creech, Memorial University
 - Chris Want, University of Alberta
 - Dmitri Rozmanov, University of Calgary
 - Jarno van der Kolk, University of Ottawa
@@ -24,6 +23,8 @@ to interactive analysis.
 - Tyson Whitehead, Western University
 - Weiguang Guan, McMaster University
 - Yohai Meiron, University of Toronto
+
+<!-- - Angus Creech, Memorial University -->
 
 To get in touch with us, email *support **at** tech **dot** alliancecan **dot** ca* and mention
 "visualization" in the subject line.
