@@ -22,6 +22,7 @@ to interactive analysis.
 - Pier-Luc St-Onge, McGill University
 - Tyson Whitehead, Western University
 - Weiguang Guan, McMaster University
+- Yashar Monfared, Dalhousie University
 - Yohai Meiron, University of Toronto
 
 <!-- - Angus Creech, Memorial University -->
