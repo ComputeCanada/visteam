@@ -21,10 +21,10 @@ to interactive analysis.
 - Jarno van der Kolk, University of Ottawa
 - Pier-Luc St-Onge, McGill University
 - Tyson Whitehead, Western University
-- Weiguang Guan, McMaster University
 - Yashar Monfared, Dalhousie University
 - Yohai Meiron, University of Toronto
 
+<!-- - Weiguang Guan, McMaster University -->
 <!-- - Angus Creech, Memorial University -->
 
 To get in touch with us, email *support **at** tech **dot** alliancecan **dot** ca* and mention
