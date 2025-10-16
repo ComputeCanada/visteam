@@ -14,7 +14,7 @@ liquid crystal particle orientation and a topological defect in orange. The part
 formats, the 3D fields in NetCDF, and scripting of time evolution and cut plane animation was done with Python inside
 ParaView.
 
-{{< vimeo 135006107 >}}
+{{< yt G4ot0iloXtQ 72 >}}
 &nbsp;
 
 This visualization was developed by [Alex Razoumov](mailto:alexeir@sfu.ca) (SFU) and Alena Antipova.

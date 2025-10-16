@@ -15,8 +15,7 @@ href="http://www.qhull.org/">qhull</a> and stored it as an Unstructured Grid VTK
 cells. This file was then read by ParaView and rendered as a volume. The entire movie containing 1800 frames was
 rendered on a laptop, taking about 1 minute per frame, but can be easily rendered on a cluster to speed up the process.
 
-{{< vimeo 135005892 >}}
-<!-- [su_vimeo url="https://vimeo.com/135005892" width="100%" height="600"] -->
+{{< yt qyGj66syLnQ 72 >}}
 &nbsp;
 
 Note that performing the Delaunay tessellation on particles is useful primarily for volumetric rendering, as other views (slice, clip) are likely to show artifacts from the Delaunay tessellation in the form of long edges. Also, it is important to point out that the Delaunay tessellation is unique for a randomized set of points. For equidistant points sitting on a 3D Cartesian mesh one can pick a Delaunay tessellation, but ParaView will have trouble processing it leading to crashes and/or segmentation errors, so for this type of rendering one must avoid equally spaced particles.

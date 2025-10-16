@@ -14,12 +14,12 @@ different ways.
 
 This toy animation shows a rotating cosmological volume with grid annotations.
 
-{{< vimeo 301503962 >}}
+{{< yt 4-oSldNvBhI 72 >}}
 &nbsp;
 
 This animation shows a deeply nested zoom in a sample AMR (adaptive mesh refinement) dataset using a custom colourmap,
 with 1795 logarithmic steps changing the window from 97.8 kpc (diameter of a large spiral galaxy) down to 9.78e-11 kpc
 = 0.0202 AU = 3.02e6 km ≈ 2 R⊙ and encoded at 60 fps.
 
-{{< vimeo 312290924 >}}
+{{< yt bGqhjTh48_o 72 >}}
 &nbsp;

@@ -17,12 +17,12 @@ Below, we provide a simple rendering of the velocity magnitude done with ParaVie
 visualization with 286 frames took about 20 minutes to render on 64 CPU cores, with most time spent on the
 time-dependent part towards the end of the video where we had to read each timestep from disk.
 
-{{< vimeo 353444320 >}}
+{{< yt BvI-8V8mWcI 72 >}}
 &nbsp;
 
 The second clip provides a more detailed look at the separation of the laminar boundary layer from the airfoil surface
 and its transition to turbulence. This more complex rendering showing the isosurface of constant air speed coloured by
 the Y-component of the vorticity took 17 minutes on 128 CPU cores on Cedar.
 
-{{< vimeo 354038712 >}}
+{{< yt I9jLH1HTZa0 72 >}}
 &nbsp;

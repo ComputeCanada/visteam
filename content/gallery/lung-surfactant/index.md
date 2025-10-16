@@ -14,5 +14,5 @@ monolayer collapse caused by external compression. This large-scale complex stru
 of lung surfactant, computed with the coarse-grained Martini model using GROMACS software. The movie was generated using
 ParaView. Simulations were performed on WestGrid (Compute Canada) resources.
 
-{{< vimeo 135391338 >}}
+{{< yt NUmWjZiGdFs 72 >}}
 &nbsp;

@@ -13,5 +13,5 @@ gas through the simulation volume in a given direction using the SPH smoothing k
 image. This projected view reveals the shape and structure of low-density bubbles. These are less visible in a simple
 scatter plot of particle densities.
 
-{{< vimeo 135100259 >}}
+{{< yt jqoIGOKNpYo 72 >}}
 &nbsp;
