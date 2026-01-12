@@ -10,8 +10,9 @@ title = "Visualization resources"
   well as materials and recordings from ~20 visualization webinars
 - [Compute Canada's visualization documentation](https://docs.computecanada.ca/wiki/Visualization) (now managed by the
   Digital Research Alliance of Canada)
-- Alliance's
-  [visualization page](https://alliancecan.ca/en/services/advanced-research-computing/national-services/visualization)
+
+<!-- - Alliance's -->
+<!--   [visualization page](https://alliancecan.ca/en/services/advanced-research-computing/national-services/visualization) -->
 
 
 
